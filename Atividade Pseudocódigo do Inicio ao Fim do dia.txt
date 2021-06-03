@@ -1,0 +1,37 @@
+Início do dia
+Acordar
+Levantar da cama
+Arrumar a cama
+Tomar banho
+Escovar os dentes
+Se tem café em casa
+Fazer café
+Se não
+Ir a padaria
+Comprar café
+Voltar pra casa
+Fazer café
+Tomar café
+Escovar os dentes
+Ligar computador
+Repetir 3 horas
+Estudar
+Desligar computador
+Almoçar
+Escovar os dentes
+Ligar computador
+Repetir 4 horas
+Estudar
+Desligar computador
+Lanchar
+Escovar os dentes
+Ligar computador
+Repetir 2 horas
+Estudar
+Desligar computador
+Tomar banho
+Escovar os dentes
+Deitar
+Dormir
+Fim do dia
+
